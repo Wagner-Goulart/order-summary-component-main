@@ -13,5 +13,5 @@ Projeto do site [Front-End Mentor](https://www.frontendmentor.io/) criar para te
 ### HTML5
 ### CSSS
 
-[Ver no GitHub Pages](#)
+[Ver no GitHub Pages](https://wagner-goulart.github.io/order-summary-component-main/)
 
